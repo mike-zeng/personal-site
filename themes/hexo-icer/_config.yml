@@ -1,0 +1,36 @@
+# Meta
+description: A geeker blog.
+keywords: hexo,theme,icer,ggice
+
+# Navigation
+navigation:
+- name: home
+  slug: home
+  url: /
+- name: README
+  slug: README
+  url: /README/
+
+# Friendly link
+links:
+#  - name: Tian1x0
+#    url: http://1x0.xyz/
+
+# Social account
+social:
+- slug: github
+  url: https://github.com/ggice
+- slug: email
+  url: 807920489@qq.com
+# Google analytics
+# google_analytics: UA-93986029-1
+
+# Baidu analytics
+baidu_analytics: 403460ed7637fb6c4a9e09a74e662ca0
+
+# Local search
+local_search:
+  enable: true
+
+# Favicon
+favicon: /image/favicon.ico
