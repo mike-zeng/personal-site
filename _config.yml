@@ -117,7 +117,7 @@ gitalk:
   enable: true
   ClientID: a318d89acb683fe51928
   ClientSecret: 9b025b82620a920681bfab08749244e3cb068a1e
-  repo: bloh-talk
+  repo: blog-talk
   owner: mike-zeng
   adminUser: "['mike-zeng']"
   ID: location.pathname
