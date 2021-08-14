@@ -120,4 +120,4 @@ gitalk:
   repo: blog-talk
   owner: mike-zeng
   admin: mike-zeng
-  proxy: shrill-waterfall-8f2d.zengxianhui.workers.dev?https://github.com/login/oauth/access_token
+  proxy: https://shrill-waterfall-8f2d.zengxianhui.workers.dev?https://github.com/login/oauth/access_token
