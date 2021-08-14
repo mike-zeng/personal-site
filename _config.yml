@@ -112,17 +112,11 @@ search:
 #disqus:
 #  shortname: ggice
 
-#Config gitalk see https://github.com/gitalk/gitalk
 gitalk:
   enable: true
+  githubID: 807920489@qq.com
+  repo: blog-talk
   ClientID: 842395d6ad1f046d795d
   ClientSecret: 0748f71b83a595ace8336bc181cd0d548ab974b2
-  repo: blog-talk
-  owner: mike-zeng
-  adminUser: "['mike-zeng']"
-  ID: location.pathname
-  labels: "['Gitalk']"
-  perPage: 15
-  pagerDirection: last
-  createIssueManually: true
-  distractionFreeMode: false
+  adminUser: 807920489@qq.com
+  distractionFreeMode: true
